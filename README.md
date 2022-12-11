@@ -5,7 +5,7 @@
 
 ### 🌱 Work in progress
 
-- [BareButtBoxing](https://store.steampowered.com/app/1186660/Bare_Butt_Boxing/), a fighting game, soon to be released  
+- [Bare Butt Boxing](https://store.steampowered.com/app/1186660/Bare_Butt_Boxing/), a fighting game, soon to be released  
 - TFlow, a motion vector tool for [Unity](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971) and [Unreal](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971)
 
 ### 🔭 Archives
