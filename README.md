@@ -11,7 +11,15 @@
 
 - [2021 Charity stream for Child's Play](https://github.com/Tuatara-VFX/charity-stream-2021): An event we organized with 6 other colleagues at Tuatare to collect funds for a charity, while teaching VFX
 - [web-experiments](https://github.com/oktomus/web-experiments): Writing compute shaders for the web, when it wasn't ready yet
-- [oktomus.com](https://oktomus.com/): A blog about programming and my various interests: 
+- [oktomus.com](https://oktomus.com/): A blog about programming and my various interests
+
+### 🖌️ Creative coding
+
+Here are some creations I made that are fully generated with code, and based on random features. (If you know a good place to upload interactive scribbles, hit me up!)
+
+- [It's tangled, fix it](https://objkt.com/explore/tokens/1?galleryId=9490)
+- [EYEE](https://objkt.com/explore/tokens/1?galleryId=30513)
+- [Time Constraints](https://objkt.com/asset/hicetnunc/529663)
 
 ### 📫 How to reach me
 
