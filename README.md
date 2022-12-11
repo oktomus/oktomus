@@ -25,7 +25,7 @@ Some creations I made that are fully generated with code, and based on random fe
 
 ### ✨ Contributions
 
-- [appleseed](https://github.com/appleseedhq/appleseed/commits?author=oktomus): probably my biggest open-source experience, a life changing one 💙
+- [appleseed](https://github.com/appleseedhq/appleseed/commits?author=oktomus): probably my biggest open-source experience so far
 - [Duik](https://github.com/RxLaboratory/Duik/commits?author=oktomus): code cleaning and documentation
 - [tev](https://github.com/Tom94/tev/commits?author=oktomus): added archlinux package support
 - [DuTF](https://github.com/RxLaboratory/DuTF/commits?author=oktomus): another translation tool
