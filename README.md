@@ -23,11 +23,6 @@ Some creations I made that are fully generated with code, and based on random fe
 - [EYEE](https://objkt.com/explore/tokens/1?galleryId=30513)
 - [Time Constraints](https://objkt.com/asset/hicetnunc/529663)
 
-### 📫 How to reach me
-
-- Twitter: [twitter.com/oktomus](https://twitter.com/oktomus)
-- Mail: [hi@oktomus.com](mailto:hi@oktomus.com)
-
 ### ✨ Contributions
 
 - [appleseed](https://github.com/appleseedhq/appleseed/commits?author=oktomus): probably my biggest open-source experience, a life changing one 💙
@@ -35,6 +30,12 @@ Some creations I made that are fully generated with code, and based on random fe
 - [tev](https://github.com/Tom94/tev/commits?author=oktomus): added archlinux package support
 - [DuTF](https://github.com/RxLaboratory/DuTF/commits?author=oktomus): another translation tool
 - [blender_gamepad_controls](https://github.com/oktomus/blender_gamepad_controls): a blender plugin to control the camera with an XBOX controller
+
+### 📫 How to reach me
+
+- Twitter: [twitter.com/oktomus](https://twitter.com/oktomus)
+- Mail: [hi@oktomus.com](mailto:hi@oktomus.com)
+
 <!--
 **oktomus/oktomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
