@@ -12,7 +12,7 @@
 
 - [2021 Charity stream for Child's Play](https://github.com/Tuatara-VFX/charity-stream-2021): An event we organized with 6 other colleagues at Tuatare to collect funds for a charity, while teaching VFX
 - [web-experiments](https://github.com/oktomus/web-experiments): Writing compute shaders for the web, when it wasn't ready yet
-- [oktomus.com](https://oktomus.com/): A blog about programming and my various interests
+- [oktomus.com](https://oktomus.com/): An unmaintened blog about programming and my various interests
 - [Google Summer of Code 2018](https://github.com/oktomus/gsoc-2018/blob/master/appleseed-final-report.md): My participation to GSoC as a student on appleseed
 
 ### 🖌️ Creative coding
