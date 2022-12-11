@@ -1,8 +1,14 @@
 ### 👋
 
+- 🎇 Programmer at [Tuatara](https://tuataragames.com/)
+
+### 📌 Recent projects
+
+- TFlow, a motion vector tool for [Unity](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971) and [Unreal](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971)
+
 ### 📫 How to reach me
 
-- Twitter: [https://twitter.com/oktomus](https://twitter.com/oktomus)
+- Twitter: [twitter.com/oktomus](https://twitter.com/oktomus)
 - Mail: [hi@oktomus.com](mailto:hi@oktomus.com)
 
 
