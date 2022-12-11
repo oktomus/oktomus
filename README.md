@@ -17,7 +17,7 @@
 
 ### 🖌️ Creative coding
 
-Here are some creations I made that are fully generated with code, and based on random features. (If you know a good place to upload interactive scribbles, hit me up!)
+Some creations I made that are fully generated with code, and based on random features. (If you know a good place to upload interactive scribbles, hit me up!)
 
 - [It's tangled, fix it](https://objkt.com/explore/tokens/1?galleryId=9490)
 - [EYEE](https://objkt.com/explore/tokens/1?galleryId=30513)
