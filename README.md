@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋
+
+### 📫 How to reach me
+
+- Twitter: [https://twitter.com/oktomus](https://twitter.com/oktomus)
+- Mail: [hi@oktomus.com](mailto:hi@oktomus.com)
+
 
 <!--
 **oktomus/oktomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
