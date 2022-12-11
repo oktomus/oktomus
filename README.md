@@ -30,6 +30,7 @@ Some creations I made that are fully generated with code, and based on random fe
 - [tev](https://github.com/Tom94/tev/commits?author=oktomus): added archlinux package support
 - [DuTF](https://github.com/RxLaboratory/DuTF/commits?author=oktomus): another translation tool
 - [blender_gamepad_controls](https://github.com/oktomus/blender_gamepad_controls): a blender plugin to control the camera with an XBOX controller
+- [notion_backup](https://github.com/darobin/notion-backup/commits?author=oktomus): documentation
 
 ### 📫 How to reach me
 
