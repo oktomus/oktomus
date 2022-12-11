@@ -13,6 +13,7 @@
 - [2021 Charity stream for Child's Play](https://github.com/Tuatara-VFX/charity-stream-2021): An event we organized with 6 other colleagues at Tuatare to collect funds for a charity, while teaching VFX
 - [web-experiments](https://github.com/oktomus/web-experiments): Writing compute shaders for the web, when it wasn't ready yet
 - [oktomus.com](https://oktomus.com/): A blog about programming and my various interests
+- [Google Summer of Code 2018](https://github.com/oktomus/gsoc-2018/blob/master/appleseed-final-report.md): My participation to GSoC as a student on appleseed
 
 ### 🖌️ Creative coding
 
@@ -27,7 +28,13 @@ Here are some creations I made that are fully generated with code, and based on 
 - Twitter: [twitter.com/oktomus](https://twitter.com/oktomus)
 - Mail: [hi@oktomus.com](mailto:hi@oktomus.com)
 
+### ✨ Contributions
 
+- [appleseed](https://github.com/appleseedhq/appleseed/commits?author=oktomus): probably my biggest open-source experience, a life changing one 💙
+- [Duik](https://github.com/RxLaboratory/Duik/commits?author=oktomus): code cleaning and documentation
+- [tev](https://github.com/Tom94/tev/commits?author=oktomus): added archlinux package support
+- [DuTF](https://github.com/RxLaboratory/DuTF/commits?author=oktomus): another translation tool
+- [blender_gamepad_controls](https://github.com/oktomus/blender_gamepad_controls): a blender plugin to control the camera with an XBOX controller
 <!--
 **oktomus/oktomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
