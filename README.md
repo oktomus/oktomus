@@ -32,7 +32,7 @@ Some creations I made that are fully generated with code, and based on random fe
 - [blender_gamepad_controls](https://github.com/oktomus/blender_gamepad_controls): a blender plugin to control the camera with an XBOX controller
 - [notion_backup](https://github.com/darobin/notion-backup/commits?author=oktomus): documentation
 
-### 📫 How to reach me
+### 📫 Contact
 
 - Twitter: [twitter.com/oktomus](https://twitter.com/oktomus)
 - Mail: [hi@oktomus.com](mailto:hi@oktomus.com)
