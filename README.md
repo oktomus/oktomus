@@ -1,7 +1,7 @@
 ### ⚡ Hey there!
 
-- Software Programmer at [Tuatara](https://tuataragames.com/)
-- 26, based in France, Strasbourg
+- Graphics Programmer at [Tuatara](https://tuataragames.com/)
+- Based in France, Strasbourg
 
 ### 🌱 Work in progress
 
