@@ -6,7 +6,7 @@ I'm Kevin, 26, graphics programmer at [Tuatara](https://tuataragames.com/) and b
 
 - TFlow, a motion vector tool for [Unity](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971) and [Unreal](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971)
 - [Quick Thumbnail](https://www.unrealengine.com/marketplace/en-US/product/339f35a0474945ebb6f4fa8859b76502), a plugin for Unreal to edit thumbnails
-- [Bare Butt Boxing](https://store.steampowered.com/app/1186660/Bare_Butt_Boxing/), a fighting game, soon to be released  
+- [Bare Butt Boxing](https://store.steampowered.com/app/1186660/Bare_Butt_Boxing/), a casual multiplayer fighting game
 
 ### 🔭 Archives
 
