@@ -19,9 +19,9 @@ I'm Kevin, 26, graphics programmer at [Tuatara](https://tuataragames.com/) and b
 
 Some creations I made that are fully generated with code, and based on random features. (If you know a good place to upload interactive scribbles, hit me up!)
 
-- [It's tangled, fix it](https://objkt.com/explore/tokens/1?galleryId=9490)
-- [EYEE](https://objkt.com/explore/tokens/1?galleryId=30513)
-- [Time Constraints](https://objkt.com/asset/hicetnunc/529663)
+- [It's tangled, fix it](https://objkt.com/explore/tokens/1?gallery=fxhash:51)
+- [EYEE](https://objkt.com/explore/tokens/1?gallery=fxhash:276)
+- [Time Constraints](https://objkt.com/explore/tokens/1?gallery=fxhash:362)
 
 ### ✨ Contributions
 
@@ -36,18 +36,3 @@ Some creations I made that are fully generated with code, and based on random fe
 
 - Twitter: [twitter.com/oktomus](https://twitter.com/oktomus)
 - Mail: [hi@oktomus.com](mailto:hi@oktomus.com)
-
-<!--
-**oktomus/oktomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
