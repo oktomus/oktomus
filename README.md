@@ -1,6 +1,6 @@
 ### ⚡ Hey there!
 
-I'm Kevin, 26, graphics programmer at [Tuatara](https://tuataragames.com/) and based in Strasbourg, France.
+I'm Kevin, 27, senior programmer at [Tuatara](https://tuataragames.com/) and based in Madrid, Spain.
 
 ### 🌱 Latest projects
 
@@ -31,8 +31,3 @@ Some creations I made that are fully generated with code, and based on random fe
 - [DuTF](https://github.com/RxLaboratory/DuTF/commits?author=oktomus): another translation tool
 - [blender_gamepad_controls](https://github.com/oktomus/blender_gamepad_controls): a blender plugin to control the camera with an XBOX controller
 - [notion_backup](https://github.com/darobin/notion-backup/commits?author=oktomus): documentation
-
-### 📫 Contact
-
-- Twitter: [twitter.com/oktomus](https://twitter.com/oktomus)
-- Mail: [hi@oktomus.com](mailto:hi@oktomus.com)
