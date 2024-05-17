@@ -1,15 +1,16 @@
 ### ⚡ Hey there!
 
-I'm Kevin, 27, senior programmer at [Tuatara](https://tuataragames.com/) and based in Madrid, Spain.
+I'm Kevin, 27, lead programmer at [Tuatara](https://tuataragames.com/).
 
-### 🌱 Latest projects
+### 🌱 Latest and ongoing projects
 
 - TFlow, a motion vector tool for [Unity](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971) and [Unreal](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971)
-- [Quick Thumbnail](https://www.unrealengine.com/marketplace/en-US/product/339f35a0474945ebb6f4fa8859b76502), a plugin for Unreal to edit thumbnails
 - [Bare Butt Boxing](https://store.steampowered.com/app/1186660/Bare_Butt_Boxing/), a casual multiplayer fighting game
+- [Let Them Come: Onslaught](https://store.steampowered.com/app/2050800/Let_Them_Come_Onslaught/), a sci-fi survival roguelite game
 
 ### 🔭 Archives
 
+- [2023 Charity stream for Child's Play](https://github.com/Tuatara-VFX/charity-stream-2023): Second edition of Tuatara's charity stream
 - [2021 Charity stream for Child's Play](https://github.com/Tuatara-VFX/charity-stream-2021): An event we organized with 6 other colleagues at Tuatare to collect funds for a charity, while teaching VFX
 - [web-experiments](https://github.com/oktomus/web-experiments): Writing compute shaders for the web, when it wasn't ready yet
 - [oktomus.com](https://oktomus.com/): An unmaintened blog about my programming experience
