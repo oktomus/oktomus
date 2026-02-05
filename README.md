@@ -1,12 +1,11 @@
 ### ⚡ Hey there!
 
-I'm Kevin, 27, lead programmer at [Tuatara](https://tuataragames.com/).
+I'm Kevin, 29, lead programmer at [Tuatara](https://tuataragames.com/).
 
 ### 🌱 Latest and ongoing projects
 
-- TFlow, a motion vector tool for [Unity](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971) and [Unreal](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971)
-- [Bare Butt Boxing](https://store.steampowered.com/app/1186660/Bare_Butt_Boxing/), a casual multiplayer fighting game
 - [Let Them Come: Onslaught](https://store.steampowered.com/app/2050800/Let_Them_Come_Onslaught/), a sci-fi survival roguelite game
+- TFlow, a motion vector tool for [Unity](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971) and [Unreal](https://assetstore.unity.com/packages/tools/particles-effects/tflow-201971)
 
 ### 🔭 Archives
 
